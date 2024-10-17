@@ -24,7 +24,7 @@ Execute the necessary commands/batch file for the desired output.
 
 
 # WINDOWS COMMANDS:
-```
+
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
 
@@ -88,7 +88,7 @@ mkdir %userprofile%\Desktop\DocBackup
 copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
 del %userprofile%\Documents\*.docx
 echo Backup and deletion completed successfully!
-```
+
 
 
 ## OUTPUT
